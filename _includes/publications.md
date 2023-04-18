@@ -147,6 +147,121 @@
 
 </div>
 
+<br>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/paper_teasers/MLCVNet.PNG" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">MLCVNet: Multi−Level Context VoteNet for 3D Object Detection</div>
+    <div class="author"><strong>Qian Xie</strong>, Yu-kun Lai, Jing Wu‚ Zhoutao Wang‚ Yiming Zhang‚ Kai Xu, Jun Wang</div>
+    <div class="periodical"><em><strong>IEEE Conference on Computer Vision and Pattern Recognition</strong>, 2020.</em></div>
+    <div class="links">
+      <a href="openaccess.thecvf.com/content_CVPR_2020/papers/Xie_MLCVNet_Multi-Level_Context_VoteNet_for_3D_Object_Detection_CVPR_2020_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="https://github.com/NUAAXQ/MLCVNet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+
+</div>
+
+<br>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/paper_teasers/TIE.PNG" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">IEEE T-IE</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Integrated Circuit Gold Wire Bonding Measurement via 3D Point Cloud Deep Learning</div>
+    <div class="author"><strong>Qian Xie</strong>, Kun Long, Dening Lu, Dawei Li, Yuan Zhang, Jun Wang</div>
+    <div class="periodical"><em><strong>IEEE Transactions on Industrial Electronics</strong>, 2021.</em></div>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/abstract/document/9583886/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+    </div>
+  </div>
+
+</div>
+
+<br>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/paper_teasers/RA-L.PNG" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">RA-L</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Robust and Accurate RGB-D Reconstruction With Line Feature Constraints</div>
+    <div class="author">Yabin Xu, Laishui Zhou, Hao Tang, Qiaoyun Wu, <strong>Qian Xie</strong>, HongHua Chen, Jun Wang</div>
+    <div class="periodical"><em><strong>IEEE Robotics and Automation Letters</strong>, 2021.</em></div>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/abstract/document/9468706/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+    </div>
+  </div>
+
+</div>
+
+<br>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/paper_teasers/CAD-SHAPE.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CAD</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">3d shape synthesis via content–style revealing priors</div>
+    <div class="author">Oussama Remil, <strong>Qian Xie</strong>, HongHua Chen, Jun Wang</div>
+    <div class="periodical"><em><strong>Computer-Aided Design</strong>, 2019.</em></div>
+    <div class="links">
+      <a href="https://www.sciencedirect.com/science/article/pii/S0010448519301897" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+    </div>
+  </div>
+
+</div>
+
+<br>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/paper_teasers/CGF-SPARSE.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CGF</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Data‐Driven Sparse Priors of 3D Shapes</div>
+    <div class="author">Oussama Remil, <strong>Qian Xie</strong>, Xingyu Xie, Kai Xu, Jun Wang</div>
+    <div class="periodical"><em><strong>Computer Graphics Forum</strong>, 2019.</em></div>
+    <div class="links">
+      <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13272" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+    </div>
+  </div>
+
+</div>
+
+<br>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/paper_teasers/TMM-SEGMENTATION.PNG" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">IEEE T-MM</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Object detection and tracking under occlusion for object-level RGB-D video segmentation</div>
+    <div class="author"><strong>Qian Xie</strong>, Oussama Remil, Yanwen Guo, Meng Wang, Mingqiang Wei, Jun Wang</div>
+    <div class="periodical"><em><strong>Computer Graphics Forum</strong>, 2019.</em></div>
+    <div class="links">
+      <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13272" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+    </div>
+  </div>
+
+</div>
+
 </li>
 
 <br>
