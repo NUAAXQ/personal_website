@@ -1,10 +1,10 @@
-domain: ttchengab.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://ttchengab.github.io 
+domain: nuaaxq.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://nuaaxq.github.io/personal_website/ 
 # Basic Information
-title: Ta-Ying Cheng
-position: D.Phil. Student
+title: Qian Xie
+position: Research Associate
 affiliation: University of Oxford
-email: ta-ying.cheng [at] cs.ox.ac.uk
+email: qian.xie [at] cs.ox.ac.uk
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -14,10 +14,12 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=onX3k7kAAAAJ&hl=en
+google_scholar: https://scholar.google.com/citations?user=we9tUrgAAAAJ&hl=en
 cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/ttchengab
-linkedin: https://www.linkedin.com/in/tim-ta-ying-cheng-411857139/
+github_link: https://github.com/NUAAXQ
+oxford_home: https://www.cs.ox.ac.uk/people/qian.xie/
+zhihu: https://www.zhihu.com/people/xie-gan-78
+linkedin: https://www.linkedin.com/in/qian-xie-909a75230/
 
 # Images (e.g., your profile picture and your website's favicon)
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
