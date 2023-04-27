@@ -8,7 +8,7 @@ I am currently a Research Associate in the Department of Computer Science at the
 
 ## Research Interests
 
-- **3D Computer Vision, Point Cloud Analysis, Deep Learning**
+- **3D Computer Vision, Scene Understanding, Point Cloud Analysis, Deep Learning**
 
 ## News
 
