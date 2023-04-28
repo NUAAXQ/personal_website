@@ -25,3 +25,5 @@ I am currently a Research Associate in the Department of Computer Science at the
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/teachings.md %}
