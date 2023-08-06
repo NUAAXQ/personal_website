@@ -8,6 +8,25 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/paper_teasers/TITS-thermal.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">IEEE T-ITS</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Illumination-aware Hallucination-based Domain Adaptation for Thermal Pedestrian Detection</div>
+    <div class="author"><strong>Qian Xie</strong>, Ta-Ying Cheng, Zhuangzhuang Dai, Vu Tran, Niki Trigoni, Andrew Markham</div>
+    <div class="periodical"><em><strong>IEEE Transactions on Intelligent Transportation Systems</strong>, 2023.</em></div>
+    <div class="links">
+      <a href="https://nuaaxq.github.io/personal_website/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+    </div>
+  </div>
+
+</div>
+
+<br>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/paper_teasers/MODNet.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">PG</abbr>
   </div>
