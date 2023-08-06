@@ -12,6 +12,7 @@ I am currently a Research Associate in the Department of Computer Science at the
 
 ## News
 
+- **[2023-08]**   Our paper Illumination-aware Hallucination-based Domain Adaptation for Thermal Pedestrian Detection is accepted to IEEE Transactions on Intelligent Transportation Systems!
 - **[2022-08]**   Our paper MODNet is accepted to Pacific Graphics 2022! Code released!
 - **[2022-07]**   Our paper 3DCTN is accepted to IEEE Transactions on Intelligent Transportation Systems! Code released!
 - **[2022-07]**   Our paper Meta-Sampler is accepted to ECCV 2022! Code released!
