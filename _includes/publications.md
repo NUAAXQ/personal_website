@@ -5,6 +5,27 @@
 
 <li>
 
+
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/paper_teasers/WACV-thermal.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">WACV</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Beyond Fusion: Modality Hallucination-based Multispectral Fusion for Pedestrian Detection</div>
+    <div class="author"><strong>Qian Xie</strong>, Ta-Ying Cheng, Jia-Xing Zhong, Kaichen Zhou, Andrew Markham, Niki Trigoni</div>
+    <div class="periodical"><em><strong>Winter Conference on Applications of Computer Vision</strong>, 2024.</em></div>
+    <div class="links">
+      <a href="https://nuaaxq.github.io/personal_website/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+    </div>
+  </div>
+
+</div>
+
+
+<br>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
