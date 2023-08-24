@@ -5,7 +5,26 @@
 
 <li>
 
+<div class="pub-row">
 
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/paper_teasers/BMVC-mm.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">BMVC</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">mmPoint: Dense Human Point Cloud Generation from mmWave</div>
+    <div class="author"><strong>Qian Xie</strong>, Qianyi Deng, Ta-Ying Cheng, Peijun Zhao, Amir Patel, Niki Trigoni, Andrew Markham</div>
+    <div class="periodical"><em><strong>British Machine Vision Conference</strong>, 2023.</em></div>
+    <div class="links">
+      <a href="https://nuaaxq.github.io/personal_website/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="https://nuaaxq.github.io/personal_website/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+
+</div>
+
+<br>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
