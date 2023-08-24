@@ -12,17 +12,18 @@ I am currently a Research Associate in the Department of Computer Science at the
 
 ## News
 
+- **[2023-08]**   Our paper mmPoint: Dense Human Point Cloud Generation from mmWave is accepted to BMVC 2023! **Code and Dataset will be released!**
 - **[2023-08]**   Our paper Beyond Fusion: Modality Hallucination-based Multispectral Fusion for Pedestrian Detection is accepted to WACV 2024!
 - **[2023-08]**   Our paper Illumination-aware Hallucination-based Domain Adaptation for Thermal Pedestrian Detection is accepted to IEEE Transactions on Intelligent Transportation Systems!
-- **[2022-08]**   Our paper MODNet is accepted to Pacific Graphics 2022! Code released!
-- **[2022-07]**   Our paper 3DCTN is accepted to IEEE Transactions on Intelligent Transportation Systems! Code released!
-- **[2022-07]**   Our paper Meta-Sampler is accepted to ECCV 2022! Code released!
+- **[2022-08]**   Our paper MODNet is accepted to Pacific Graphics 2022! **Code released!**
+- **[2022-07]**   Our paper 3DCTN is accepted to IEEE Transactions on Intelligent Transportation Systems! **Code released!**
+- **[2022-07]**   Our paper Meta-Sampler is accepted to ECCV 2022! **Code released!**
 - **[2022-05]**   Our survey paper Transformers in 3D Point Clouds: A Survey is online!
 - **[2021-12]**   I am invited by [Prof. Yu-kun Lai](http://users.cs.cf.ac.uk/Yukun.Lai/) to attend the [China-UK Workshop on Visual Signal Cognition and Understanding](http://users.cs.cf.ac.uk/Yukun.Lai/vscu_home.html) at Cardiff University, and give a talk on 3D Object Detection from Point Cloud.
 - **[2021-08]**   I join the Department of Computer Science at the University of Oxford as a Research Associate!
-- **[2021-07]**   Two papers are accepted to ICCV 2021! Code released!
+- **[2021-07]**   Two papers are accepted to ICCV 2021! **Code released!**
 - **[2021-04]**   Our paper MLCVNet has been extended to IJCV!
-- **[2020-02]**   Our paper MLCVNet is accepted to CVPR 2020! Code released!
+- **[2020-02]**   Our paper MLCVNet is accepted to CVPR 2020! **Code released!**
 
 {% include_relative _includes/publications.md %}
 
