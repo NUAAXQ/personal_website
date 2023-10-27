@@ -36,6 +36,7 @@
     <div class="title">Beyond Fusion: Modality Hallucination-based Multispectral Fusion for Pedestrian Detection</div>
     <div class="author"><strong>Qian Xie</strong>, Ta-Ying Cheng, Jia-Xing Zhong, Kaichen Zhou, Andrew Markham, Niki Trigoni</div>
     <div class="periodical"><em><strong>Winter Conference on Applications of Computer Vision</strong>, 2024.</em></div>
+    <div class="other">Accepted without rebuttal in R1-11% acceptance rate</div>
     <div class="links">
       <a href="https://nuaaxq.github.io/personal_website/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
     </div>
