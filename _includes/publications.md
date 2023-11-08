@@ -17,8 +17,8 @@
     <div class="author"><strong>Qian Xie</strong>, Qianyi Deng, Ta-Ying Cheng, Peijun Zhao, Amir Patel, Niki Trigoni, Andrew Markham</div>
     <div class="periodical"><em><strong>British Machine Vision Conference</strong>, 2023.</em></div>
     <div class="links">
-      <a href="https://nuaaxq.github.io/personal_website/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
-      <a href="https://nuaaxq.github.io/personal_website/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://www.cs.ox.ac.uk/files/14371/BMVC-2023-mmPoint.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="https://github.com/NUAAXQ/mmPoint" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 
@@ -38,7 +38,7 @@
     <div class="periodical"><em><strong>Winter Conference on Applications of Computer Vision</strong>, 2024.</em></div>
     <div class="other">Accepted without rebuttal in R1-11% acceptance rate</div>
     <div class="links">
-      <a href="https://nuaaxq.github.io/personal_website/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="http://www.cs.ox.ac.uk/files/14370/WACV-2023-Beyond%20Fusion%20Modality%20Hallucination-based%20Multispectral%20Fusion%20for%20Pedestrian%20Detection.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
     </div>
   </div>
 
