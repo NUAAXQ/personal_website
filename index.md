@@ -12,7 +12,7 @@ I am currently a Research Associate in the Department of Computer Science at the
 
 ## News
 
-- **[2023-08]**   Our paper mmPoint: Dense Human Point Cloud Generation from mmWave is accepted to BMVC 2023! **Code and Dataset will be released!**
+- **[2023-08]**   Our paper mmPoint: Dense Human Point Cloud Generation from mmWave is accepted to BMVC 2023! **Code and Dataset are released!**
 - **[2023-08]**   Our paper Beyond Fusion: Modality Hallucination-based Multispectral Fusion for Pedestrian Detection is accepted to WACV 2024!
 - **[2023-08]**   Our paper Illumination-aware Hallucination-based Domain Adaptation for Thermal Pedestrian Detection is accepted to IEEE Transactions on Intelligent Transportation Systems!
 - **[2022-08]**   Our paper MODNet is accepted to Pacific Graphics 2022! **Code released!**
