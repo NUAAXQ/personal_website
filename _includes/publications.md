@@ -8,6 +8,66 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/paper_teasers/AAAI.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">AAAI</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">EditBoard: Towards A Comprehensive Evaluation Benchmark for Text-based Video Editing Models</div>
+    <div class="author">Yupeng Chen, Penglin Chen, Xiaoyu Zhang, Yixian Huang, <strong>Qian Xie</strong>(Corresponding author)</div>
+    <div class="periodical"><em><strong>The AAAI Conference on Artificial Intelligence</strong>, 2025.</em></div>
+    <div class="links">
+      <a href="https://nuaaxq.github.io/personal_website/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="https://nuaaxq.github.io/personal_website/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+
+</div>
+
+<br>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/paper_teasers/3DV.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">3DV</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">mmDiffusion: mmWave Diffusion for Sequential 3D Human Dense Point Cloud Generation</div>
+    <div class="author"><strong>Qian Xie</strong>, Xinyu Hou, Qianyi Deng, Amir Patel, Niki Trigoni, Andrew Markham</div>
+    <div class="periodical"><em><strong>International Conference on 3D Vision</strong>, 2025.</em></div>
+    <div class="links">
+      <a href="https://nuaaxq.github.io/personal_website/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="https://nuaaxq.github.io/personal_website/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+
+</div>
+
+<br>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/paper_teasers/NIPS-1.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">NIPS</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Towards Learning Group-Equivariant Features for Domain Adaptive 3D Detection</div>
+    <div class="author">Sangyun Shin, Yuhang He, Madhu Vankadari, Ta-Ying Cheng, <strong>Qian Xie</strong>, Andrew Markham, Niki Trigoni</div>
+    <div class="periodical"><em><strong>The Thirty-eighth Annual Conference on Neural Information Processing Systems</strong>, 2024.</em></div>
+    <div class="links">
+      <a href="https://openreview.net/pdf?id=YEtirXhsh1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="https://github.com/yunshin/GroupExp-DA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+
+</div>
+
+<br>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/paper_teasers/BMVC-mm-1.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">BMVC</abbr>
   </div>
