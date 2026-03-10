@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am currently a lecturer in the School of Computer Science at the University of Leeds. Before joining Leeds, I was a Postdoctoral Research Associate in the Department of Computer Science at the University of Oxford, where I worked in the Cyber-Physical Systems Group under the supervision of [Prof. Niki Trigoni](https://en.wikipedia.org/wiki/Niki_Trigoni) and [Prof. Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). Prior to Oxford, I obtained my Ph.D. degree in 2021 from China and was supervised by Prof. Jun Wang. In 2019, I went to Cardiff University, UK, as a joint Ph.D. for 18 months in the School of Computer Science and Informatics, under the supervision of Prof. Yu-kun Lai and Jing Wu. I aim to create intelligent systems for effective and efficient perception and understanding of 3D scenes as my research objective. My research interests are 3D Perception, Computer Vision, and Machine Learning, and I publish extensively in venues and journals such as CVPR, ICCV, ECCV, RA-L, TMM, IJCV, etc. My research goal is to build intelligent systems which are able to achieve an effective and efficient perception and understanding of 3D scenes.
+I am currently a lecturer in the School of Computer Science at the University of Leeds. Before joining Leeds, I was a Postdoctoral Research Associate in the Department of Computer Science at the University of Oxford, where I worked in the Cyber-Physical Systems Group under the supervision of [Prof. Niki Trigoni](https://en.wikipedia.org/wiki/Niki_Trigoni) and [Prof. Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). Prior to Oxford, I obtained my Ph.D. degree in 2021 from China and was supervised by Prof. Jun Wang. In 2019, I went to Cardiff University, UK, as a joint Ph.D. for 18 months in the School of Computer Science and Informatics, under the supervision of Prof. Yu-kun Lai and Jing Wu. I aim to create intelligent systems for effective and efficient perception and understanding of 3D scenes as my research objective. My research interests are 3D Perception, Computer Vision, and Machine Learning, and I publish extensively in venues and journals such as CVPR, ICCV, ECCV, RA-L, TMM, IJCV, etc. My research goal is to build intelligent systems which are able to achieve an effective and efficient perception and understanding of 3D scenes. 
+
+**I am looking for self-motivated PhD students (as well as Master students, RAs, Visiting students/researchers, etc.). Please drop me an email with your CV if you are interested in working with me!**
 
 ## Research Interests
 
@@ -12,8 +14,9 @@ I am currently a lecturer in the School of Computer Science at the University of
 
 ## News
 
+- **[2026-02]**   Our paper Data Factory with Minimal Human Effort Using VLMs is accepted to ICASSP 2026!
 - **[2024-11]**   Our paper EditBoard: Towards A Comprehensive Evaluation Benchmark for Text-based Video Editing Models is accepted to AAAI 2025! **Code released!**
-- **[2024-11]**   Our paper mmDiffusion: mmWave Diffusion for Sequential 3D Human Dense Point Cloud Generation is accepted to 3DV 2025 (Coming soon)!
+- **[2024-11]**   Our paper mmDiffusion: mmWave Diffusion for Sequential 3D Human Dense Point Cloud Generation is accepted to 3DV 2025!
 - **[2024-10]**   I join the School of Computer Science at the University of Leeds as a Lecturer (Assistant Professor)!
 - **[2024-09]**   Our paper Towards Learning Group-Equivariant Features for Domain Adaptive 3D Detection is accepted to NeurIPS 2024!**Code released!**
 - **[2023-08]**   Our paper mmPoint: Dense Human Point Cloud Generation from mmWave is accepted to BMVC 2023! **Code and Dataset are released!**
