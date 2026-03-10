@@ -4,7 +4,27 @@
 <ol class="bibliography">
 
 <li>
+  
+<div class="pub-row">
 
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/paper_teasers/ICASSP.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICASSP</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Data Factory with Minimal Human Effort Using VLMs</div>
+    <div class="author">Jiaojiao Ye, Jiaxing Zhong, Qian Xie, Yuzhou Zhou, Niki Trigoni, Andrew Markham</div>
+    <div class="periodical"><em><strong>IEEE International Conference on Acoustics, Speech, and Signal Processing</strong>, 2026.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2510.05722" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="https://nuaaxq.github.io/personal_website/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+
+</div>
+
+<br>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -17,8 +37,8 @@
     <div class="author">Yupeng Chen, Penglin Chen, Xiaoyu Zhang, Yixian Huang, <strong>Qian Xie</strong>(Corresponding author)</div>
     <div class="periodical"><em><strong>The AAAI Conference on Artificial Intelligence</strong>, 2025.</em></div>
     <div class="links">
-      <a href="https://nuaaxq.github.io/personal_website/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
-      <a href="https://nuaaxq.github.io/personal_website/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33754" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="https://github.com/Samchen2003/EditBoard" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 
