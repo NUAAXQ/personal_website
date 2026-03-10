@@ -12,7 +12,7 @@ I am currently a lecturer in the School of Computer Science at the University of
 
 ## News
 
-- **[2024-11]**   Our paper EditBoard: Towards A Comprehensive Evaluation Benchmark for Text-based Video Editing Models is accepted to AAAI 2025 (Coming soon)!
+- **[2024-11]**   Our paper EditBoard: Towards A Comprehensive Evaluation Benchmark for Text-based Video Editing Models is accepted to AAAI 2025! **Code released!**
 - **[2024-11]**   Our paper mmDiffusion: mmWave Diffusion for Sequential 3D Human Dense Point Cloud Generation is accepted to 3DV 2025 (Coming soon)!
 - **[2024-10]**   I join the School of Computer Science at the University of Leeds as a Lecturer (Assistant Professor)!
 - **[2024-09]**   Our paper Towards Learning Group-Equivariant Features for Domain Adaptive 3D Detection is accepted to NeurIPS 2024!**Code released!**
