@@ -18,7 +18,8 @@
     <div class="periodical"><em><strong>IEEE International Conference on Acoustics, Speech, and Signal Processing</strong>, 2026.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2510.05722" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
-      <a href="https://nuaaxq.github.io/personal_website/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://jjystem.github.io/DiffusionSyn/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
+      <a href="https://github.com/JJYSTEM/DiffusionSyn" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 
