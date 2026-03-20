@@ -8,6 +8,8 @@ I am currently a lecturer in the School of Computer Science at the University of
 
 **I am looking for self-motivated PhD students (as well as Master students, RAs, Visiting students/researchers, etc.). Please drop me an email with your CV if you are interested in working with me!**
 
+**For CSC applicants: University of Leeds benefits from an official partnership with China Scholarship Council (CSC). If you are interested in doing research with me, please contact me via email as soon as possible as additional deadlines/steps may apply.**
+
 ## Research Interests
 
 - **3D Perception, Computer Vision, Point Cloud Analysis, Scene Understanding**
