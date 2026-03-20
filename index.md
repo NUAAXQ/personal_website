@@ -16,7 +16,7 @@ I am currently a lecturer in the School of Computer Science at the University of
 
 ## News
 
-- **[2026-02]**   Our paper Data Factory with Minimal Human Effort Using VLMs is accepted to ICASSP 2026!
+- **[2026-02]**   Our paper Data Factory with Minimal Human Effort Using VLMs is accepted to ICASSP 2026! **Code coming!**
 - **[2024-11]**   Our paper EditBoard: Towards A Comprehensive Evaluation Benchmark for Text-based Video Editing Models is accepted to AAAI 2025! **Code released!**
 - **[2024-11]**   Our paper mmDiffusion: mmWave Diffusion for Sequential 3D Human Dense Point Cloud Generation is accepted to 3DV 2025!
 - **[2024-10]**   I join the School of Computer Science at the University of Leeds as a Lecturer (Assistant Professor)!
